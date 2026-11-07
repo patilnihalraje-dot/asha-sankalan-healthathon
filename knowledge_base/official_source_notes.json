@@ -1,0 +1,82 @@
+[
+  {
+    "id": "NHM-HBNC-01",
+    "title": "NHM: Home Based New Born Care and Home-Based Care for Young Child",
+    "source_url": "https://www.nhm.gov.in/index1.php?lang=1&level=0&lid=760&linkid=491",
+    "section": "HBNC home-visit schedule",
+    "review_status": "official-public-webpage-summary; clinical review pending",
+    "text": "National Health Mission describes six scheduled home visits after an institutional delivery: days 3, 7, 14, 21, 28 and 42. For home delivery an additional visit within 24 hours is listed. This is a programme schedule, not a patient-specific medical recommendation."
+  },
+  {
+    "id": "NHM-HBYC-02",
+    "title": "NHM: Home Based New Born Care and Home-Based Care for Young Child",
+    "source_url": "https://www.nhm.gov.in/index1.php?lang=1&level=0&lid=760&linkid=491",
+    "section": "HBYC home-visit schedule",
+    "review_status": "official-public-webpage-summary; clinical review pending",
+    "text": "The NHM Home-Based Care for Young Child programme lists ASHA home visits at the child ages of 3, 6, 9, 12 and 15 months. The page describes support for nutrition, growth and development, and facilitating referral when needed."
+  },
+  {
+    "id": "NHM-HBNC-03",
+    "title": "NHM: Home Based New Born Care and Home-Based Care for Young Child",
+    "source_url": "https://www.nhm.gov.in/index1.php?lang=1&level=0&lid=760&linkid=491",
+    "section": "ASHA referral and follow-up responsibilities",
+    "review_status": "official-public-webpage-summary; clinical review pending",
+    "text": "The NHM programme describes ASHA identifying newborn illness or unusual findings, facilitating referral to ANM or a health facility as defined by protocols, following up sick newborns after facility discharge, and supporting referral for postpartum complications."
+  },
+  {
+    "id": "NHM-ASHA-M6-04",
+    "title": "ASHA Training Module 6",
+    "source_url": "https://hbnc-hbyc.mohfw.gov.in/assets/document/ASHA_Training_Module_6.pdf",
+    "section": "Maternal health training objectives, page 21",
+    "review_status": "official-document-index-summary; clinical review pending",
+    "text": "ASHA Training Module 6 maternal-health objectives include antenatal check-up components, identifying problems and danger signs during pregnancy, appropriate referral, birth preparedness, and follow-up. The training module should be consulted directly for details; this summary does not enumerate or interpret danger signs."
+  },
+  {
+    "id": "NHM-ASHA-M7-05",
+    "title": "ASHA Training Module 7",
+    "source_url": "https://hbnc-hbyc.mohfw.gov.in/assets/document/ASHA_Training_Module_7.pdf",
+    "section": "Table of contents, pages 3-5",
+    "review_status": "official-document-index-summary; clinical review pending",
+    "text": "ASHA Training Module 7 covers child health and nutrition, assessment of the sick child, fever, diarrhoeal disease, acute respiratory infection, women reproductive health, newborn health, malaria and tuberculosis. For clinical questions consult the actual module and a qualified clinician; this entry is a topic index, not treatment guidance."
+  },
+  {
+    "id": "MAH-CPHC-2025-01",
+    "title": "Maharashtra Public Health Department: Arogyam Paramam Dhanam",
+    "source_url": "https://phd.maharashtra.gov.in/en/scheme/arogyam-paramam-dhanam/",
+    "section": "Continuity of care and team-based primary health care",
+    "review_status": "official-public-webpage-summary; source dated 2025-01-04; reviewed for V1 2026-11-07; clinical review pending",
+    "text": "The Maharashtra Public Health Department describes Comprehensive Primary Health Care (CPHC) as supporting preventive, promotive and curative health services, continuity of care, and coordination between levels of care. It presents Ayushman Arogya Mandirs (AAM) as strengthened primary-level services. This is programme context, not a patient-specific referral or triage directive."
+  },
+  {
+    "id": "MAH-CPHC-2025-02",
+    "title": "Maharashtra Public Health Department: Arogyam Paramam Dhanam",
+    "source_url": "https://phd.maharashtra.gov.in/en/scheme/arogyam-paramam-dhanam/",
+    "section": "Roles in the sub-centre primary-care team",
+    "review_status": "official-public-webpage-summary; source dated 2025-01-04; reviewed for V1 2026-11-07; clinical review pending",
+    "text": "The official description says sub-centre Ayushman Arogya Mandirs are headed by Community Health Officers (CHO), with a primary health care team that includes Auxiliary Nurse Midwives (ANM), male Multipurpose Workers (MPW), and ASHAs from the sub-centre area. It does not provide a complete authorization matrix for referral software."
+  },
+  {
+    "id": "MAH-CPHC-2025-03",
+    "title": "Maharashtra Public Health Department: Arogyam Paramam Dhanam",
+    "source_url": "https://phd.maharashtra.gov.in/en/scheme/arogyam-paramam-dhanam/",
+    "section": "Emergency and teleconsultation services",
+    "review_status": "official-public-webpage-summary; source dated 2025-01-04; reviewed for V1 2026-11-07; clinical review pending",
+    "text": "The official primary-care service description includes emergency medical services including burns and trauma and lists teleconsultation. It describes a hub-and-spoke teleconsultation model with AAM facilities as spokes and district hospitals as hubs, with CHOs and Medical Officers obtaining opinions from district hospital hubs. These programme notes do not verify any given facility’s current emergency capabilities, antivenom stock or availability."
+  },
+  {
+    "id": "MAH-ASHA-2025-01",
+    "title": "Maharashtra Public Health Department: Accredited Social Health Activist (ASHA)",
+    "source_url": "https://phd.maharashtra.gov.in/en/scheme/accredited-social-health-activist-asha/",
+    "section": "ASHA programme role and community coordination",
+    "review_status": "official-public-webpage-summary; source dated 2025-01-03; reviewed for V1 2026-11-07; clinical review pending",
+    "text": "The Maharashtra Public Health Department describes ASHA as a community volunteer and a link connecting local residents, the healthcare system, and other organisations. Programme objectives include health awareness, promoting health services, basic health services, community mobilisation, maternal and child health monitoring, and participation in committees. This description is not a full legal job description."
+  },
+  {
+    "id": "MAH-ASHA-2025-02",
+    "title": "Maharashtra Public Health Department: Accredited Social Health Activist (ASHA)",
+    "source_url": "https://phd.maharashtra.gov.in/en/scheme/accredited-social-health-activist-asha/",
+    "section": "Examples of ASHA programme activities",
+    "review_status": "official-public-webpage-summary; source dated 2025-01-03; reviewed for V1 2026-11-07; clinical review pending",
+    "text": "The official state ASHA page references work related to immunisation, leprosy and tuberculosis programmes, non-communicable diseases, maternal and child health, and home-based newborn and young-child care programmes. ASHAs help connect communities to health services; the page does not authorize independent diagnosis, antivenom administration, or medical treatment decisions."
+  }
+]
